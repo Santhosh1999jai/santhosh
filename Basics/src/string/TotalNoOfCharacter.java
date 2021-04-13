@@ -4,7 +4,7 @@ public class TotalNoOfCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-String s="malala got nobel prize for peace";
+String s="malala got Nobel prize for peace";
 char c[]=new char[s.length()];
 int count=0;
 for(int i=0;i<c.length;i++)

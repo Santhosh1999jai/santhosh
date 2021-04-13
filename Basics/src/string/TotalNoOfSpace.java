@@ -4,7 +4,7 @@ public class TotalNoOfSpace {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s="malala got nobel prize for peace";
+		String s="malala got Nobel prize for peace";
 		int count=0;
 		char c[]=new char[s.length()];
 		for(int i=0;i<c.length;i++)

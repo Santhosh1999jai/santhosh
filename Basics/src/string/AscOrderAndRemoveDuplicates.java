@@ -4,7 +4,7 @@ public class AscOrderAndRemoveDuplicates {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-String s="malala get nobel prize for peace";
+String s="malala get nobel Prize for peace";
 char c[]=new char[s.length()];
 for(int i=0;i<c.length;i++)
 {
