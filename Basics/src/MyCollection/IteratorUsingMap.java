@@ -13,7 +13,7 @@ Directory.put(123456," santhosh");
 Directory.put(1234," vijay");
 Directory.put(12345," ram");
 Directory.put(9876," prabhu");
-Directory.put(5674," logesh");
+Directory.put(5684," logesh");
 Directory.put(78643," aakash");
 System.out.println(Directory);
 for (Integer name : Directory.keySet())
