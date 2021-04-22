@@ -15,7 +15,7 @@ System.out.println(names);
 //names.remove(2);//To remove an element in a particular index
 names.add(2,"honda");
 System.out.println(names);//To remove an element based on its value
-System.out.println(names.indexOf("benz"));
+System.out.println(names.indexOf("i10"));
 System.out.println(names.get(2));
 System.out.println(names.contains("swift"));
 	}
